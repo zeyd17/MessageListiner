@@ -1,5 +1,5 @@
 # MessageListiner
-MessageListiner android  telefonlarda gelen mesajları dinleyen ve kendi veri tabanına kaydeden bir sevistir.
+MessageListiner android  telefonlarda gelen mesajları dinleyen ve kendi veri tabanına kaydeden bir servistir.
 
 Menü de uygulamaya ait bi icon gözükmemektedir.
 
